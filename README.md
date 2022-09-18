@@ -3,7 +3,7 @@ My favorite things
 ## author name
 Caroline Wangari Theuri
 ## description of project
-This project implements the course work highlighted in moringa.
+This project implements the course work highlighted in moringa portal to help understand the different concepts of html and css.
 ## project setup instructions
 * Clone the project on github
 * Open the code in vs code
@@ -12,7 +12,7 @@ This project implements the course work highlighted in moringa.
 - HTML, CSS
 - VS Code
 ## link to live site on GitHub Pages
-https://carotheuri.github.io/my-first-webpage
+https://carotheuri.github.io/my-first-website
 
 ## copyright and license information
-Copyright (c) {2022} **{Caroline Theuri}**
+Copyright (c) 2022 Caroline Theuri
